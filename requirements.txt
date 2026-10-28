@@ -1,0 +1,9 @@
+# Install everything once with:   pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+scikit-learn
+openpyxl        # Experiment 9 (reads Online Retail.xlsx)
+torch           # Experiment 8 only (large download)
+torchvision     # Experiment 8 only
+tensorflow      # Experiment 12 only (large download)
